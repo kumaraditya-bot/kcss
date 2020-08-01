@@ -1,0 +1,157 @@
+body {
+  color: #4b5d67;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.3rem;
+  margin: 50px auto 0 auto;
+  font-family: Open sans, sans-serif;
+  color: #FFFFFF;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #FFFFFF;
+  border-bottom-color: rgba(255, 255, 255, 0.35);
+  display: inline-block;
+}
+
+.aadi {
+  font-size: 1.7rem;
+color: #FFFFFF;
+  font-weight: normal;
+}
+
+h2 {
+  color: #1e836c;
+  font-family: "Comic Sans MS", sans-serif;
+  font-weight: normal;
+  font-size: 1.6rem;
+  padding-bottom: 20px;
+}
+
+h3 {
+  color: #45b29a;
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+p {
+	font-size:1.2rem;
+  line-height: 1.6;
+}
+
+a {
+  color: #11999E;
+  font-family: "Comic Sans MS", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  border: dotted #22A39F 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+.top-container {
+background-color: #22A39F;
+  position: relative;
+  padding-top: 180px;
+padding-bottom: 180px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.web-img {
+  width: 20%;
+  float: left;
+  margin-right: 40px;
+}
+
+.computer-img {
+  width: 20%;
+  float: right;
+  margin-left: 40px;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  box-shadow: -5px 7px 7px -20px #276873;
+  background: linear-gradient(to bottom, #11cdd4 5%, #11999E 100%);
+  background-color: #599bb3;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 12px 12px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+  background-color: #2bc4ad;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.checked {
+  color: #22A39F;
+}
+
+.fa-star{
+	font-size: 20px;
+}
+
+.cloud-top1{
+	position:absolute;
+	right: 200px;
+	top: 80px;
+}
+
+
+	
+.cloud-bottom1{
+	position:absolute;
+	left: 200px;
+}
+
+	
